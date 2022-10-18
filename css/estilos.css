@@ -1,3 +1,7 @@
+*{
+    font-family: 'Playfair Display', serif;
+}
+
 header {
     background-color: #FFA1AC;
     display: flex;
@@ -61,7 +65,7 @@ header ul li a {
     h1{
         text-align: center;
         font-size: 50px;
-        color: #7a7a7a;
+        color: #553639;
         
     }
     .contenedorUnoIndex {
@@ -71,7 +75,7 @@ header ul li a {
         align-items: center; 
     }
     .contenedorUnoIndex h2{
-        color: rgb(224, 105, 125);
+        color: #AA6B73;
     }
     
     .contenedorDosIndex{
@@ -336,7 +340,7 @@ header ul li a {
     h1{
         text-align: center;
         font-size: 90px;
-        color: #7a7a7a;
+        color: #553639;
         
     }
     .contenedorUnoIndex {
@@ -347,7 +351,8 @@ header ul li a {
     }
     .contenedorUnoIndex h2{
         font-size: 60px;
-        color: rgb(224, 105, 125);
+        color: #805156;
+
     }
     
     .contenedorDosIndex{
@@ -627,7 +632,7 @@ header ul li a {
     h1{
         text-align: center;
         font-size: 50px;
-        color: #7a7a7a;
+        color: #553639;
         
     }
     .contenedorUnoIndex {
@@ -637,7 +642,8 @@ header ul li a {
         align-items: center; 
     }
     .contenedorUnoIndex h2{
-        color: rgb(224, 105, 125);
+        color: #805156;
+
     }
 
     .contenedorDosIndex{
